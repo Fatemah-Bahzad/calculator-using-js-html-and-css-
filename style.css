@@ -5,7 +5,7 @@
   }
 
   body {
-    background-color: #cbd2d887;
+    background-color: #c464b187;
     font-family: "Red Hat Display", sans-serif;
   }
 
@@ -21,7 +21,7 @@
 
   .screen {
     height: 150px;
-    background: #5c5c56;
+    background: #a64e9487;
     margin: 10px 10px 10px 10px;
     margin: auto;
   }
@@ -49,13 +49,13 @@
 
 
   table {
-    background-color: #001e34;
+    background-color: #ffffff;
     border-collapse: collapse;
   }
 
   tr,
   td {
-    border: 0.2px solid rgb(179, 175, 175);
+    border: 0.2px solid rgb(255, 255, 255);
     border-collapse: collapse;
   }
   
@@ -65,17 +65,17 @@
     font-size: 17px;
     cursor: pointer;
     border: none;
-    background: #272525;
-    color: white;
+    background: #763172;
+    color: rgb(223, 158, 226);
     outline: none;
   }
   .operator {
-    color: rgb(197, 176, 176);
+    color: rgb(255, 255, 255);
     font-family: "Fira Sans", sans-serif;
   }
 
   .math {
-    color: #ada4a4;
+    color: #e3b4e6;
     font-family: "Fira Sans", sans-serif;
   }
 
