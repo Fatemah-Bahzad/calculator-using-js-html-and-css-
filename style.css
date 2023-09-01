@@ -5,7 +5,7 @@
   }
 
   body {
-    background-color: #5ba5db87;
+    background-color: #cbd2d887;
     font-family: "Red Hat Display", sans-serif;
   }
 
@@ -21,7 +21,7 @@
 
   .screen {
     height: 150px;
-    background: #acb513;
+    background: #5c5c56;
     margin: 10px 10px 10px 10px;
     margin: auto;
   }
@@ -55,7 +55,7 @@
 
   tr,
   td {
-    border: 0.2px solid black;
+    border: 0.2px solid rgb(179, 175, 175);
     border-collapse: collapse;
   }
   
@@ -65,23 +65,29 @@
     font-size: 17px;
     cursor: pointer;
     border: none;
-    background: #520f08;
+    background: #272525;
     color: white;
     outline: none;
   }
   .operator {
-    color: black;
+    color: rgb(197, 176, 176);
     font-family: "Fira Sans", sans-serif;
   }
 
   .math {
-    color: #cf1616;
+    color: #ada4a4;
     font-family: "Fira Sans", sans-serif;
   }
 
-  .btn:hover {background-color: #8e833e}
+  .btn:hover {background-color: #4e4c44}
   .btn:active {
-    background-color: #d79a1f;
+    background-color: #7c7a76;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
+  
+  
+  
+  
+  
+  
